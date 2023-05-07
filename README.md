@@ -1,2 +1,2 @@
 # Launchpad-PlooBit
-Launchpad
+Cryptocurrency Multi-chain Launchpad for PlooBit
